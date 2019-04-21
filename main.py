@@ -1,0 +1,4 @@
+import currency
+import currency_loader
+
+currency_loader.get_currency_dynamic_reports(currency.CURRENCY_CODES)
